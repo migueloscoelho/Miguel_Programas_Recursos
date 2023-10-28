@@ -5,3 +5,8 @@ Usuario: ~KI(8SycUg7^
 Nome de usuário do FTP: root.adm.coelho@download.coelhotiecontabilidade.com
 Servidor FTP: ftp.migueloscoelho.com
 FTP & porta FTPS explícita:  21
+
+
+
+
+
